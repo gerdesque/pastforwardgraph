@@ -13,5 +13,5 @@ Alle Videosequenzen werden in der Liste 'Nodes' als einzelnes Objekt mit folgend
 - end: Ende des Videos im Format "0:00"
 - intro: Tafeltext (= Vorspann/Eingangstafel) bestehend auss Ort, Zeit, Geschehen (1-2 Sätze)
 - associationText1: Teaser der ersten Assoziation (kurzer Anreißertext)
-- associationText2: Teaser der ersten Assoziation (kurzer Anreißertext)
+- associationText2: Teaser der zweiten Assoziation (kurzer Anreißertext)
 - text: Text für die Postkartenrückseite (nur für Startvideos relevant)
