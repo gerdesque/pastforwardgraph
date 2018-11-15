@@ -21,7 +21,7 @@
     "start": "0:00",
     "end": "1:25",
     "intro": "Propaganda vor dem Kino-Hauptprogramm: In der Wochenschau wird im März 1917 für Kriegsanleihen geworben",
-    "associationText1": "3 Jahre zuvor: Dampfern im Schwarzen Meer",
+    "associationText1": "3 Jahre zuvor: Dampfer im Schwarzen Meer",
     "target1": "3",
     "associationText2": "Teaser der zweiten Assoziation",
     "text": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege\n1917 Animationsfilm\nDer für die Messter-Wochenschau produzierte Zeichentrickfilm wirbt für die sechste, im März 1917 ausgegebene deutsche Kriegsanleihe. Wöchentlich wurden neue Zusammenstellung von Filmberichten über aktuelle Themen produziert. In diesem Fall gleichzeitig: Werbung."
