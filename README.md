@@ -1,6 +1,6 @@
 # pastforwardgraph
 
-Die Datei films.js enthält alle Videosequenzen samt Verlinkungen zueinander.
+Die Datei films.json enthält alle Videosequenzen samt Verlinkungen zueinander. Eine Videosequenz ist ein Ausschnitt aus einem der 22 Filme, der mit Start- und Endzeit klar abgesteckt ist.
 Dies kann visuell unter https://gerdesque.github.io/pastforwardgraph/index.html eingesehen werden.
 
 Alle Videosequenzen werden in der Liste 'Nodes' als einzelnes Objekt mit folgenden Parametern gespeichert:
@@ -11,7 +11,7 @@ Alle Videosequenzen werden in der Liste 'Nodes' als einzelnes Objekt mit folgend
 - video: Link zur Videosequenz von filmportal.de
 - start: Beginn des Videos im Format "0:00"
 - end: Ende des Videos im Format "0:00"
-- intro: Tafeltext (= Vorspann/Eingangstafel) bestehend auss Ort, Zeit, Geschehen (1-2 Sätze)
-- associationText1: Teaser der ersten Assoziation (kurzer Anreißertext)
-- associationText2: Teaser der zweiten Assoziation (kurzer Anreißertext)
+- intro: Tafeltext (= Vorspann/Eingangstafel) bestehend aus Ort, Zeit, Geschehen (1-2 Sätze)
 - text: Text für die Postkartenrückseite (nur für Startvideos relevant)
+
+Im Bereich 'args' wird eine Liste zwischen der Quelle und den Zielsequenzen gepflegt. Dies ist notwendig für die Darstellung des Graphen. Weiterhin erhält jede Verbindung einen Assoziationstext. 

@@ -12,7 +12,7 @@ var svg = d3.select("#main-content").append("svg")
             .attr("width", width)
             .attr("height", height);   
 
-d3.json("films.js", function(error, graph){ 
+d3.json("films.json", function(error, graph){ 
    
 var nodes = {};
 var links = graph.arcs;
