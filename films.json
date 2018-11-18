@@ -1,7 +1,7 @@
 {  
   "nodes":[
   {
-    "id": "01-1",
+    "id": 0101,
     "section": "European War, 1914-1915. The African Zouaves in the Flanders",
     "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/71579_13050_The_african_zouaves_DSM_file_to_view.jpg",
     "video": "https://www.filmportal.de/sites/default/files/video/71579_13050_The_african_zouaves_DSM_file_to_view.mp4",
@@ -12,7 +12,7 @@
 
   },
       {
-    "id": "02-1",
+    "id": 0201,
     "section": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
     "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.jpg",
     "video": "https://www.filmportal.de/sites/default/files/video/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.mp4",
@@ -23,9 +23,9 @@
 
   },
       {
-    "id": "03-1",
+    "id": 0301,
     "section": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
-    "thumbnail": "ToDo - Thumbnail auswählen + bereitstellen",
+    "thumbnail": "ToDo: ~2:11",
     "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_145_1R_Kino_Kriegsschau_Nr_14_DE_1914.mp4",
     "start": "2:01",
     "end": "4:13",
@@ -33,7 +33,7 @@
     "text": "Aus: Kino-Kriegsschau Nr.14\n1914 Dokumentarfilm\nDer verheerende Angriff wurde zeitgleich mit Attacken auf Sewastopol und Odessa durchgeführt und markierte den Beginn des Seekriegs im Schwarzen Meer.\nMit drei Monaten Verzug vertreibt Filmproduzent Edmund Hubert aus Berlin diese Aufnahmen im Januar 1915 als Teil seiner Reihe  „Kino-Kriegsschau“ und bewarb sie als Sensation."
   },
       {
-    "id": "04-1",
+    "id": 0401,
     "section": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
     "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.jpg",
     "video": "https://www.filmportal.de/sites/default/files/video/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.mp4",
@@ -43,17 +43,17 @@
     "text": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897\n1897 Kurz-Dokumentarfilm\nDie Aufnahmen wurden gedreht vom deutschen Filmpionier Oskar Messter. In seinen Lebenserinnerungen beschreibt er sie als  „die erste gute Großaufnahme des Kaisers“. Messter produzierte später die erste größere deutsche Wochenschau, die Messter-Woche. Sie wurde kurz nach Ausbruch des 1. Weltkrieges erstmal im Kino-Vorprogramm gezeigt."
   },
       {
-    "id": "05-1",
+    "id": 0501,
     "section": "Welfentaufe 1914: Empfang des Kaiserpaares",
     "thumbnail": "ToDo: ~3:38",
     "video": "https://www.filmportal.de/sites/default/files/video/DIF_30_788_1R_Fuerstliches_Familienglueck.mp4",
     "start": "2:30",
     "end": "3:39",
     "intro": "Zwei Monate vor Kriegsausbruch, am 9. Mai 1914, wird in Braunschweig die Taufe des kaiserlichen Enkels Ernst August IV. gefeiert. Kurz darauf sind Großvater (trägt Totenkopf-Husarenmütze) und Vater des Täuflings Kriegsherren, die Paten stehen sich als Gegner gegenüber und mit Ende des Ersten Weltkriegs ist die Monarchie in Deutschland Geschichte.",
-    "text": "Aus: Fürstliches Familienglück\n1914 Kurz-Dokumentarfilm\nWie im Kaiserreich üblich, finden anlässlich des Kaiserbesuches aufwändigen Festlichkeiten statt - die „Kaisertage“. Die Taufe kann als das letzte großen Fürstenfest vor dem Ersten Weltkrieg bezeichnet werden. Die Mitglieder der Fürstenhäuser werden hier von der Eiko-Film GmbH (Berlin) inszeniert wie auch heute noch Celebrities in den Boulevardmedien."
+    "text": "Aus: Fürstliches Familienglück\n1914 Kurz-Dokumentarfilm\nWie im Kaiserreich üblich, finden anlässlich des Kaiserbesuches aufwändigen Festlichkeiten statt - die „Kaisertage“. Die Taufe kann als das letzte großen Fürstenfest vor dem Ersten Weltkrieg bezeichnet werden. Die Mitglieder der Fürstenhäuser werden hier für die Eiko-Woche inszeniert wie auch heute noch Celebrities in den Boulevardmedien. Das Format wird über die Kriegsjahre wöchentlich im Kino-Vorprogramm gezeigt."
   },
       {
-    "id": "06-1",
+    "id": 0601,
     "section": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
     "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_20_306_1R_Das_Begraebnis_der_ehemaligen_Kaiserin_Auguste_Victoria.jpg",
     "video": "https://www.filmportal.de/sites/default/files/video/DIF_20_306_1R_Das_Begraebnis_der_ehemaligen_Kaiserin_Auguste_Victoria.mp4",
@@ -63,7 +63,7 @@
     "text": "Das Begräbnis der ehemaligen Kaiserin Auguste Victoria\n1921 Kurz-Dokumentarfilm\nProduktionsfirma: Ilag-Film (Isenthal und Juttke) (Berlin)\nPrüfung/Zensur: Zensur (DE): 23.04.1921, B.02017, Jugendfrei"
   },
       {
-    "id": "07-1",
+    "id": 0701,
     "section": "Kinoprogramm Anfang 1914: Der Spielfilm „Tirol in Waffen“",
     "thumbnail": "ToDo: ~14:26",
     "video": "https://www.filmportal.de/sites/default/files/video/DIF_10_1194_2R_Tirol_in_Waffen_(Le_Tyrol_en_Armes).mp4",
@@ -73,7 +73,129 @@
     "text": "Tirol in Waffen\n1913/1914 Spielfilm\nRegie: Carl Froelich\nDrehbuch: Carl Froelich (?)\nDarsteller: Rudolf Biebrach, Carl Zickner, Erich Kober u.a.\nProduktionsfirma: Messter-Film GmbH (Berlin)\nProduzent: Oskar Messter"
   },
       {
-    "id": "",
+    "id": 0502,
+    "section": "Anfang 1914: Der Adel privat",
+    "thumbnail": "ToDo: ~5:32",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_30_788_1R_Fuerstliches_Familienglueck.mp4",
+    "start": "4:39",
+    "end": "5:36",
+    "intro": "In einer ihrer ersten Ausgaben porträtiert die Eiko-Woche die Adligen auf der Taufe Ernst August IV. Zu sehen sind Eitel Friedrich von Preußen, Sophie Charlotte von Oldenburg, August Wilhelm von Preußen, Alexandra Viktoria von Schleswig-Holstein-Sonderburg-Glücksburg sowie Friedrich Franz IV., Großherzog von Mecklenburg.
+",
+    "text": "Aus: Fürstliches Familienglück\n1914 Kurz-Dokumentarfilm\nWie im Kaiserreich üblich, finden anlässlich des Kaiserbesuches aufwändigen Festlichkeiten statt - die „Kaisertage“. Die Taufe kann als das letzte großen Fürstenfest vor dem Ersten Weltkrieg bezeichnet werden. Die Mitglieder der Fürstenhäuser werden hier für die Eiko-Woche inszeniert wie auch heute noch Celebrities in den Boulevardmedien. Das Format wird über die Kriegsjahre wöchentlich im Kino-Vorprogramm gezeigt."
+  },
+      {
+    "id": 0801,
+    "section": "Spielfilm-Kompilation: Bilder vom Trojanischen Kriege",
+    "thumbnail": "ToDo: ~10:27",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_300_1R_Bilder_vom_Trojanischen_Kriege_(Helena).mp4",
+    "start": "9:30",
+    "end": "10:38",
+    "intro": "Zweitverwertung des deutschen Monumentalfilms „Helena“ (1923/1924, Bavaria Film AG): Eine Zusammenstellung von Kriegssequenzen wird der Verfilmung der antiken Sage von der Eroberung Trojas durch die Griechen entnommen und separat aufgeführt.",
+    "text": "Aus: Bilder vom Trojanischen Kriege (Helena)\nEine Zusammenstellung von Kriegssequenzen, die dem zweiten Teil des Monumentalfilms „Helena“ (1923/1924) entnommen wurden – einer von Manfred Noa für die Bavaria Film AG realisierten Verfilmung der antiken Sage von der Eroberung Trojas durch die Griechen."
+  },
+      {
+    "id": 0901,
+    "section": "Vater ist im Kriege",
+    "thumbnail": "ToDo: ~8:27",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
+    "start": "7:48",
+    "end": "8:51",
+    "intro": "Unterhaltsame Propaganda: Während des Kriegs ermöglicht der Kinobesuch (an der Front wie in der Heimat) Hilfe bei der emotionalen Verarbeitung der Umstände. Und übt dabei gezielt Einfluss aus.",
+    "text": "Vater ist im Kriege\n191?, Kurz-Spielfilm\nDie Produktionsdaten sind unbekannt, der Dosentitel „Vater ist im Kriege“ konnte nicht verifiziert werden. Die letzte Einstellung weist den Film als Propagandafilm aus: „Wir werden diesen Kampf bestehen, auch gegen eine Welt von Feinden. Noch nie ward Deutschland überwunden wenn es einig war.“"
+  },
+      {
+    "id": 0802,
+    "section": "Der Tod des Helden Paris",
+    "thumbnail": "ToDo: ~13:02",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_300_1R_Bilder_vom_Trojanischen_Kriege_(Helena).mp4",
+    "start": "12:02",
+    "end": "13:05",
+    "intro": "Szene aus dem Monumentalfilm „Helena“ (1923/1924, Bavaria Film AG). Der Heldentod der antiken Sagengestalt Paris während der Eroberung Trojas durch die Griechen bewegt das Kinopublikum in den 1920ern.",
+    "text": "Aus: Bilder vom Trojanischen Kriege (Helena)\nEine Zusammenstellung von Kriegssequenzen, die dem zweiten Teil des Monumentalfilms „Helena“ (1923/1924) entnommen wurden – einer von Manfred Noa für die Bavaria Film AG realisierten Verfilmung der antiken Sage von der Eroberung Trojas durch die Griechen."
+  },
+      {
+    "id": 0803,
+    "section": "Das Trojanische Pferd",
+    "thumbnail": "ToDo: ~13:28",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_300_1R_Bilder_vom_Trojanischen_Kriege_(Helena).mp4",
+    "start": "13:29",
+    "end": "14:27",
+    "intro": "Szene aus dem Monumentalfilm „Helena“ (1923/1924, Bavaria Film AG). In den 1920er Jahren wird Aufwand betrieben, um das deutsche Kino international konkurrenzfähig zu machen.",
+    "text": "Aus: Bilder vom Trojanischen Kriege (Helena)\nEine Zusammenstellung von Kriegssequenzen, die dem zweiten Teil des Monumentalfilms „Helena“ (1923/1924) entnommen wurden – einer von Manfred Noa für die Bavaria Film AG realisierten Verfilmung der antiken Sage von der Eroberung Trojas durch die Griechen."
+  },
+      {
+    "id": 1001,
+    "section": "Infanterie in der Ebene",
+    "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_50_341_1R_unident%20Eiko-Woche%20-%20Fragment.jpg",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_341_1R_unident%20Eiko-Woche%20-%20Fragment.mp4",
+    "start": "0:24",
+    "end": "1:08",
+    "intro": "Die Eiko-Woche zeigt während des Ersten Weltkrieges der Zivilbevölkerung zu Hause im Kino-Vorprogramm möglichst unaufwühlende Bilder von der Front.",
+    "text": "unidentifizierte Wochenschau-Aufnahmen aus dem Ersten Weltkrieg\nVon diesem Fragment der „Eiko-Woche“, einer der ersten in Deutschland produzierten Wochenschauen, ist das Produktionsjahr nicht bekannt. Die Aufnahmen werden im Material der Ostfront zugewiesen, Polen und Dünaburg = Daugavpils im heutigen Lettland"
+  },
+      {
+    "id": 1101,
+    "section": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+    "thumbnail": "ToDo: ~8:04",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_11_306_1R_Oorlogsannalen_No_85_(1918)_orange.mp4",
+    "start": "7:04",
+    "end": "8:37",
+    "intro": "Die staatliche französische Wochenschau „Les Annales de la Guerre“ zeigt im Oktober 1918 die französische Stadt Valenciennes nach dem Rückzug der deutschen Armee. Zu sehen sind auch zwei Kriegsgefallene – Bilder, die das zeitgenössische Kinopublikum eher selten zu sehen bekam.
+",
+    "text": "Oorlogsannalen No. 85 (1918)\nFrankreich 1918 Kurz-Dokumentarfilm (?)\n„Les Annales de la Guerre“ (bzw. hier die für ein niederländischsprachiges Publikum angepasste Version) gilt als erste staatliche Wochenschau der Filmgeschichte: Vom Frühjahr 1917 an ließ die französische Regierung die Reihe von einer Filmabteilung des Militärs produzieren und verpflichtete alle Kinos in Frankreich, diese offizielle Sicht auf das Kriegsgeschehen zu zeigen."
+  },
+      {
+    "id": 0902  ,
+    "section": "Der Spielfilmtod eines deutschen Soldaten 191?",
+    "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_Vater%20ist%20im%20Kriege.jpg",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
+    "start": "4:41",
+    "end": "5:37",
+    "intro": "Im Spielfilm „Vater ist im Kriege“ stellt diese Szene dar, wie der Protagonist und sein Kamerad bis zuletzt heldenhaft kämpfen, um dann zu fallen bzw. in gefangen genommen zu werden.",
+    "text": "Vater ist im Kriege\n191?, Kurz-Spielfilm\nDie Produktionsdaten sind unbekannt, der Dosentitel „Vater ist im Kriege“ konnte nicht verifiziert werden. Die letzte Einstellung weist den Film als Propagandafilm aus: „Wir werden diesen Kampf bestehen, auch gegen eine Welt von Feinden. Noch nie ward Deutschland überwunden wenn es einig war.“"
+  },
+      {
+    "id": 0903,
+    "section": "Die Feldpostnachricht",
+    "thumbnail": "ToDo: ~8:59",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
+    "start": "8:59",
+    "end": "9:37",
+    "intro": "Emotionale Spielfilmmomente beim Öffnen der Feldpost von der Front. Das Ende des Films macht den propagandistischen Zweck des Filmes dann explizit.",
+    "text": "Vater ist im Kriege\n191?, Kurz-Spielfilm\nDie Produktionsdaten sind unbekannt, der Dosentitel „Vater ist im Kriege“ konnte nicht verifiziert werden. Die letzte Einstellung weist den Film als Propagandafilm aus: „Wir werden diesen Kampf bestehen, auch gegen eine Welt von Feinden. Noch nie ward Deutschland überwunden wenn es einig war.“"
+  },
+      {
+    "id": 1102,
+    "section": "Französische Soldaten am Geschütz, 1918",
+    "thumbnail": "ToDO: ~2:57",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_11_306_1R_Oorlogsannalen_No_85_(1918)_orange.mp4",
+    "start": "2:49",
+    "end": "3:08",
+    "intro": "Die staatliche französische Wochenschau „Les Annales de la Guerre“ zeigt im Oktober 1918 die Arbeit der Soldaten am Geschütz an der Front im Norden Frankreichs.",
+    "text": "Oorlogsannalen No. 85 (1918)\nFrankreich 1918 Kurz-Dokumentarfilm (?)\n„Les Annales de la Guerre“ (bzw. hier die für ein niederländischsprachiges Publikum angepasste Version) gilt als erste staatliche Wochenschau der Filmgeschichte: Vom Frühjahr 1917 an ließ die französische Regierung die Reihe von einer Filmabteilung des Militärs produzieren und verpflichtete alle Kinos in Frankreich, diese offizielle Sicht auf das Kriegsgeschehen zu zeigen."
+  },
+      {
+    "id": 1103,
+    "section": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
+    "thumbnail": "ToDo: ~4:20",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_11_306_1R_Oorlogsannalen_No_85_(1918)_orange.mp4",
+    "start": "4:20",
+    "end": "4:44",
+    "intro": "Die staatliche französische Wochenschau „Les Annales de la Guerre“ zeigt im Oktober 1918 wie französische Soldaten nach der Schlacht bei Plessis-de-Roye im Norden Frankreichs deutsche Kriegsgefangene abführen.",
+    "text": "Oorlogsannalen No. 85 (1918)\nFrankreich 1918 Kurz-Dokumentarfilm (?)\n„Les Annales de la Guerre“ (bzw. hier die für ein niederländischsprachiges Publikum angepasste Version) gilt als erste staatliche Wochenschau der Filmgeschichte: Vom Frühjahr 1917 an ließ die französische Regierung die Reihe von einer Filmabteilung des Militärs produzieren und verpflichtete alle Kinos in Frankreich, diese offizielle Sicht auf das Kriegsgeschehen zu zeigen."
+  },
+      {
+    "id": 1201,
+    "section": "Henny Porten Fragment",
+    "thumbnail": "ToDo: ~0:30",
+    "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
+    "start": "0:00",
+    "end": "2:06",
+    "intro": "Es folgt ein Fragment eines unidentifizierten Films mit der Schauspielerin Henny Porten, die in den 1910er Jahren ein gefragter Star des deutschen Kinos war. Die Handlung erschließt sich über diesen einzig erhaltenen Ausschnitt nicht - sie darf vom Betrachter hineininterpretiert werden ...",
+    "text": "Die ersten zwei Minuten zeigen Ausschnitte aus einem unidentifizierten Film mit Henny Porten, die in den 1910er Jahren ein gefragter Star des deutschen Kinos war. Die Szene im Park zeigt außerdem Eduard von Winterstein. "
+  },
+      {
+    "id":  ,
     "section": "",
     "thumbnail": "",
     "video": "",
@@ -83,7 +205,7 @@
     "text": ""
   },
       {
-    "id": "",
+    "id":  ,
     "section": "",
     "thumbnail": "",
     "video": "",
@@ -93,7 +215,7 @@
     "text": ""
   },
       {
-    "id": "",
+    "id":  ,
     "section": "",
     "thumbnail": "",
     "video": "",
@@ -101,7 +223,7 @@
     "end": "",
     "intro": "",
     "text": ""
-  }    
+  } 
 ],
 "arcs":[
   {
@@ -136,16 +258,156 @@
   },
   {
       "source": "Welfentaufe 1914: Empfang des Kaiserpaares",
-      "target": "TODO",
-      "associationText": "Das Posieren der fürstlichen Verwandten vor den Kameras"
+      "target": "Anfang 1914: Der Adel privat",
+      "associationText": "Am Rande des Festes: die fürstlichen Gäste lassen sich für die Wochenschau porträtieren"
   },
   {
       "source": "Kinoprogramm Anfang 1914: Der Spielfilm „Tirol in Waffen“",
+      "target": "Spielfilm-Kompilation: Bilder vom Trojanischen Kriege",
+      "associationText": "Auch einen Weltkrieg später schürt der deutsche Spielfilm weiter die Kriegsbegeisterung"
+  },
+  {
+      "source": "Kinoprogramm Anfang 1914: Der Spielfilm „Tirol in Waffen“",
+      "target": "Vater ist im Kriege",
+      "associationText": "Kriegskino zum Einfühlen: Vater ist im Kriege"
+  },
+  {
+      "source": "Spielfilm-Kompilation: Bilder vom Trojanischen Kriege",
+      "target": "Der Tod des Helden Paris",
+      "associationText": "Wie es weiter geht: der ausdruckstarke Heldentod des Paris in den 1920ern (mit Vorbildcharakter?)"
+  },
+  {
+      "source": "Spielfilm-Kompilation: Bilder vom Trojanischen Kriege",
+      "target": "Infanterie in der Ebene",
+      "associationText": "Wenige Jahre zuvor zeigt die Wochenschau im Kino harmlose Impressionen des realen Krieges an der Ostfront"
+  },
+  {
+      "source": "Der Tod des Helden Paris",
+      "target": "Das Trojanische Pferd",
+      "associationText": "Wie es weitergeht: antike Kriegstaktik, die in allen Epochen fasziniert - das trojanische Pferd"
+  },
+  {
+      "source": "Der Tod des Helden Paris",
+      "target": "Der Spielfilmtod eines deutschen Soldaten 191?",
+      "associationText": "Zum Vergleich: der Spielfilmtod eines deutschen Soldaten 191?"
+  },
+  {
+      "source": "Vater ist im Kriege",
+      "target": "Die Feldpostnachricht",
+      "associationText": "Wie es weitergeht: Was steht in dem Brief?"
+  },
+  {
+      "source": "Vater ist im Kriege",
       "target": "TODO",
       "associationText": "TODO"
   },
   {
-      "source": "Kinoprogramm Anfang 1914: Der Spielfilm „Tirol in Waffen“",
+      "source": "Infanterie in der Ebene",
+      "target": "Französische Soldaten am Geschütz, 1918",
+      "associationText": "Die französische Wochenschau gewährt 1918 nähere Einblicke in die Arbeit des Soldaten"
+  },
+  {
+      "source": "Infanterie in der Ebene",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Der Spielfilmtod eines deutschen Soldaten 191?",
+      "target": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+      "associationText": "Weniger romantisiert zeigt die französische Wochenschau die Leichname zweier Soldaten im Oktober 1918"
+  },
+  {
+      "source": "Der Spielfilmtod eines deutschen Soldaten 191?",
+      "target": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
+      "associationText": "Deutsche Kriegsgefangene in der französischen Wochenschau Oktober 1918"
+  },
+  {
+      "source": "Anfang 1914: Der Adel privat",
+      "target": "Henny Porten Fragment",
+      "associationText": "Ähnliches Interesse im Volk löst Stummfilmstar Henny Porten in den 1910er Jahren aus - hier zu sehen in einem unidentifizierten Filmfragment"
+  },
+  {
+      "source": "Anfang 1914: Der Adel privat",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Die Feldpostnachricht",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Die Feldpostnachricht",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Französische Soldaten am Geschütz, 1918",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Französische Soldaten am Geschütz, 1918",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Das Trojanische Pferd",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Das Trojanische Pferd",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Henny Porten Fragment",
+      "target": "TODO",
+      "associationText": "TODO"
+  },
+  {
+      "source": "Henny Porten Fragment",
       "target": "TODO",
       "associationText": "TODO"
   }
