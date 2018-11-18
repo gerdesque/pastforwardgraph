@@ -29,6 +29,8 @@ links.forEach(function(link) {
       .on("tick", tick)
       .start();
 
+  var drag = force.drag().on("dragstart", dragstart);
+
   svg.append("defs").selectAll("marker")
     .data(0)
   .enter().append("marker")
@@ -78,5 +80,8 @@ function transform(d) {
   return "translate(" + d.x + "," + d.y + ")";
 }
 
+function dragstart(d) {
+  d3.select(this).classed("fixed", d.fixed= true);
+}
 
 });

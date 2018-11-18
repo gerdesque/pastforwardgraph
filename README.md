@@ -14,4 +14,4 @@ Alle Videosequenzen werden in der Liste 'Nodes' als einzelnes Objekt mit folgend
 - intro: Tafeltext (= Vorspann/Eingangstafel) bestehend aus Ort, Zeit, Geschehen (1-2 Sätze)
 - text: Text für die Postkartenrückseite (nur für Startvideos relevant)
 
-Im Bereich 'args' wird eine Liste zwischen der Quelle und den Zielsequenzen gepflegt. Dies ist notwendig für die Darstellung des Graphen. Weiterhin erhält jede Verbindung einen Assoziationstext. 
+Im Bereich 'arcs' wird eine Liste zwischen der Quelle und den Zielsequenzen gepflegt. Dies ist notwendig für die Darstellung des Graphen. Weiterhin erhält jede Verbindung einen Assoziationstext. 
