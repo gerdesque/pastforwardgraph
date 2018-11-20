@@ -1,16 +1,5 @@
 {
     "nodes": [{
-            "id": "0101",
-            "section": "European War, 1914-1915. The African Zouaves in the Flanders",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/71579_13050_The_african_zouaves_DSM_file_to_view.jpg",
-            "video": "https://www.filmportal.de/sites/default/files/video/71579_13050_The_african_zouaves_DSM_file_to_view.mp4",
-            "start": "0:00",
-            "end": "0:30",
-            "intro": "Kaiser Wilhelm füttert Enten im Park. Die Szene entstand 1912 vor seinem Mittagessen und soll ihn als fürsorglichen Vater des Volkes darstellen.",
-            "text": "Kaiser Wilhelm beim Entenfüttern"
-
-        },
-        {
             "id": "0201",
             "section": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
             "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.jpg",
@@ -233,11 +222,6 @@
         }
     ],
     "arcs": [{
-            "source": "European War, 1914-1915. The African Zouaves in the Flanders",
-            "target": "TODO",
-            "associationText": "Teaser der ersten Assoziation"
-        },
-        {
             "source": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
             "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
             "associationText": "Bereits 3 Jahre zuvor: der Zustand der Dampfschifffahrt im Schwarzen Meer"
