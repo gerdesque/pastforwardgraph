@@ -198,7 +198,7 @@
             "start": "6:06",
             "end": "6:47",
             "intro": "Die Zuckerration, die eine deutsche Familie während der sogenannten Hungerblockade für eine Woche zur Verfügung hatte",
-            "text": "Der zwischen 1919 und 1922 von dem im deutschsprachigen Raum geborenen US-Bürger montierte Propagandafilm hat zum Ziel, die Auswirkungen der von 1915 bis 1919 verhängten aliierten Seeblockade auf die deutsche Bevölkerung in anklagendem Ton aufzuzeigen."
+            "text": "Der zwischen 1919 und 1922 von dem im deutschsprachigen Raum geborenen US-Bürger William Held montierte Propagandafilm hat zum Ziel, die Auswirkungen der von 1915 bis 1919 verhängten aliierten Seeblockade auf die deutsche Bevölkerung in anklagendem Ton aufzuzeigen."
         },
         {
             "id": "",
@@ -219,7 +219,148 @@
             "end": "1:06",
             "intro": "Im März 1914 wird der deutsche Spielfilm „Tirol in Waffen“ in Berlin uraufgeführt. Die Handlung spielt im Tirol Anfang des 19 Jahrhunderts. Die Bevölkerung mobilisiert sich unter ihrem Anführer Andreas Hofer gegen die Besetzung der übermächtigen Truppen Napoleon Bonapartes. Ein Kritiker urteilt: „[...] Wir wussten kaum einen Film, der so geeignet wäre, unsere Jugendlichen zu Taten aus Vaterlandsliebe zu begeistern [...]”",
             "text": "Tirol in Waffen\n1913/1914 Spielfilm\nRegie: Carl Froelich\nDrehbuch: Carl Froelich (?)\nDarsteller: Rudolf Biebrach, Carl Zickner, Erich Kober u.a.\nProduktionsfirma: Messter-Film GmbH (Berlin)\nProduzent: Oskar Messter"
+        },
+        {
+            "id": "",
+            "section": "Willst du mein Cousinchen sein: Flirt",
+            "thumbnail": "ToDo: ~2:22",
+            "video": "https://www.filmportal.de/sites/default/files/video/Willst%20du%20mein%20Cousinchen%20sein.mp4",
+            "start": "1:16",
+            "end": "3:07",
+            "intro": "Der Film „Willst du mein Cousinchen sein“ entstammt der Operette „Der Teufel lacht dazu“ von 1907.",
+            "text": "Der Film von Alfred Duskes gehört in die kurze Ära der Tonbilder. Während dieser im Playback-Stil aufgenommene Film im Kino gezeigt wurde, spielte man die dazugehörige Musik mithilfe eines Grammophons ab."
+        },
+        {
+            "id": "",
+            "section": "Vater ist im Kriege: Abschiednehmen",
+            "thumbnail": "ToDo: ~1:35",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
+            "start": "1:22",
+            "end": "2:06",
+            "intro": "Der Ausschnitt entstammt einem unidentifizierten Film aus den 1910er Jahren. Der Inhalt der Szene ist nicht eindeutig. Es könnte sich jedoch um die Reaktion auf eine Einberufung zum Wehrdienst handeln.",
+            "text": "In dieser Szene spielen Henny Porten und Eduard von Winterstein."
+        },
+        {
+            "id": "",
+            "section": "Oorlogsannalen: Kanone",
+            "thumbnail": "ToDo: ~2:55",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_11_306_1R_Oorlogsannalen_No_85_(1918)_orange.mp4",
+            "start": "2:42",
+            "end": "3:02",
+            "intro": "Der Ausschnitt der Kriegsannalen vom Oktober 1918 dokumentiert die Gegenangriffe der französischen und britischen Truppen gegen die deutschen Angriffe während des Ersten Weltkrieges an der Westfront.",
+            "text": "„Les Annales de la Guerre“ gilt als erste staatliche Wochenschau der Filmgeschichte: Vom Frühjahr 1917 an ließ die französische Regierung die Reihe von einer Filmabteilung des Militärs produzieren und verpflichtete alle Kinos in Frankreich, diese offizielle Sicht auf das Kriegsgeschehen zu zeigen."
+        },
+        {
+            "id": "",
+            "section": "Auf dem Kasernenhof: Schikane",
+            "thumbnail": "ToDo: ~0:14",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_Auf%20dem%20Kasernenhof.mp4",
+            "start": "1:18",
+            "end": "1:38",
+            "intro": "Der Filmausschnitt entstammt dem Sketch-Tonbild „Auf dem Kasernenhof“, in dem Soldaten von einem Offizier militärisch getrimmt werden.",
+            "text": "Das Entstehungsjahr des Filmes ist unbekannt. Da es sich um ein Tonbild handelt, wurde parallel zum Film eine Tonschellackplatte mithilfe eines Grammophons abgespielt."
+        },
+        {
+            "id": "",
+            "section": "The african Zouaves: Krieg und Langeweile",
+            "thumbnail": "ToDo: ~7:14",
+            "video": "https://www.filmportal.de/sites/default/files/video/71579_13050_The_african_zouaves_DSM_file_to_view.mp4",
+            "start": "6:43",
+            "end": "7:21",
+            "intro": "Die Szene zeigt eine Gruppe von Zouaven, eine französische Infanterieeinheit nordafrikanischer Kolonialsoldaten, im belgischen Flandern.",
+            "text": "Der Film wurde ungefähr zwischen 1914 und 1915 gedreht und soll die Truppen in Bereitschaft einen Kilometer hinter der Front zeigen."
+        },
+        {
+            "id": "",
+            "section": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
+            "thumbnail": "ToDo: ~0:47",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.mp4",
+            "start": "0:48",
+            "end": "1:25",
+            "intro": "Der propagandistische Trickfilm zeigt die Wirkung der im März 1917 ausgegebenen 6. Kriegsanleihe. ",
+            "text": "Produziert wurde der Film für die Messter-Wochenschau, die als Nachrichtenbeiträge für das Vorprogramm im Kino zusammengestellt wurden."
+        },
+        {
+            "id": "",
+            "section": "Wintersport in Österreich: Ziellinie",
+            "thumbnail": "ToDo: ~1:18",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_Wintersport%20in%20Oesterreich.mp4",
+            "start": "1:10",
+            "end": "1:28",
+            "intro": "In dem Beitrag der Aktualitätenfilm-Reihe wird ein Bobrennen in Österreich porträtiert.",
+            "text": "Das von der Firma „Express-Film“ aus Freiburg produzierte Format „Der Tag im Film“ wurde günstig an Kinobetreiber verkauft, die daraus Wochenschauen zusammenstellen konnten. Das Entstehungsjahr ist unbekannt."
+        },
+        {
+            "id": "",
+            "section": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
+            "thumbnail": "ToDo: ~0:25",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.mp4",
+            "start": "0:16",
+            "end": "0:27",
+            "intro": "Die Aufnahme zeigt Kaiser Wilhelm II. beim Besuch der Vulkan-Werft in Stettin am 4. Mai 1897 ",
+            "text": "Die von Oskar Messter produzierte Szene bezeichnete er selbst als „die erste gute Großaufnahme des Kaisers“."
+        },
+        {
+            "id": "",
+            "section": "Rückkehr von der Parade: Begeisterung",
+            "thumbnail": "ToDo: ~1:03",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_Rueckkehr%20von%20der%20Parade.mp4",
+            "start": "0:58",
+            "end": "1:30",
+            "intro": "Der Ausschnitt zeigt ein 1908 von Alfred Duskes veröffentlichtes Tonbild, in dem die Polizei Schwierigkeiten hat, die begeisterte Menschenmenge zu beruhigen.",
+            "text": "Da es sich bei dem Originalfilm um ein Tonbild handelt, wurde parallel zum Film eine Tonschellackplatte mithilfe eines Grammophons abgespielt."
+        },
+        {
+            "id": "",
+            "section": "Hüter der Ordnung: Laufe, wer kann",
+            "thumbnail": "ToDo: ~14:08",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_BArch_K_214956_1R_Hueter_der_Ordnung_LaengunguGradingZT.mp4",
+            "start": "13:37",
+            "end": "14:35",
+            "intro": "Der Dokumentarfilm zeigt verschiedene Aspekte der Abrichtung und Einsetzung von Polizeihunden.",
+            "text": "Womöglich handelt es sich bei „Hüter der Ordnung“ in Teilen oder in Gänze um das gleiche Material, das die Deutsche Lichtbild-Gesellschaft 1919 unter dem Titel „Dressur deutscher Schäferhunde“ vertrieb."
+        },
+        {
+            "id": "",
+            "section": "Vater ist im Kriege: Kriegsgefangenenlager",
+            "thumbnail": "ToDo: ~5:56",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
+            "start": "5:37",
+            "end": "6:09",
+            "intro": "Der undatierte Kriegsfilm zeigt in Spielfilmform die Geschichte eines deutschen Soldaten, der im Ersten Weltkrieg in Kriegsgefangenschaft gerät.",
+            "text": "Der Film wurde offensichtlich als Propagandafilm verwendet, wie die letzte Einstellung des Gesamtfilmes zeigt."
+        },
+        {
+            "id": "",
+            "section": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "thumbnail": "ToDo: ~2:37",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_20_292_1R_William_Held_Film%20-%20Hunger_Blockade_Germany.mp4",
+            "start": "2:25",
+            "end": "3:30",
+            "intro": "Der Filmausschnitt zeigt die leeren Schaufenster während der Seeblockade von 1915 bis 1919, die die Versorgung im deutschen Reich verknappte.",
+            "text": "Der zwischen 1919 und 1922 von dem im deutschsprachigen Raum geborenen US-Bürger William Held montierte Propagandafilm hat zum Ziel, die Auswirkungen der von 1915 bis 1919 verhängten aliierten Seeblockade auf die deutsche Bevölkerung in anklagendem Ton aufzuzeigen."
+        },
+        {
+            "id": "",
+            "section": "Propagandafilm über die Seeblockade: Essen für die Kinder",
+            "thumbnail": "ToDo: ~15:50",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_20_292_1R_William_Held_Film%20-%20Hunger_Blockade_Germany.mp4",
+            "start": "15:24",
+            "end": "16:45",
+            "intro": "In der folgenden Sequenz sieht man verschiedene Hilfsinitiativen, die Speisung für die hungerleidenden Kinder anbieten während der alliierten Seeblockade.",
+            "text": "Der zwischen 1919 und 1922 von dem im deutschsprachigen Raum geborenen US-Bürger William Held montierte Propagandafilm hat zum Ziel, die Auswirkungen der von 1915 bis 1919 verhängten aliierten Seeblockade auf die deutsche Bevölkerung in anklagendem Ton aufzuzeigen."
+        },
+        {
+            "id": "",
+            "section": "Vor dem Damenbad",
+            "thumbnail": "ToDo: ~0:29",
+            "video": "https://www.filmportal.de/sites/default/files/video/Vor%20dem%20Damenbad.mp4",
+            "start": "0:0",
+            "end": "1:20",
+            "intro": "Bei „Vor dem Damenbad“ handelt es sich um ein Tonbild von 1912.",
+            "text": "Tonbild ist die Bezeichnung für frühe Kinofilme, zu denen synchron Schellackplatten mit dem dazugehörigen Ton abgespielt wurden."
         }
+       
     ],
     "arcs": [{
             "source": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
@@ -415,7 +556,143 @@
             "source": "Beim Zahnarzt: Patient unter Schmerzen",
             "target": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
             "associationText": "Der richtige Moment, um an etwas schönes denken."
+        },
+        {
+            "source": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
+            "target": "Willst du mein Cousinchen sein: Flirt",
+            "associationText": "Paarbeziehung in Friedenszeiten"
+        },
+        {
+            "source": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
+            "target": "Vater ist im Kriege: Abschiednehmen",
+            "associationText": "Paarbeziehung in Kriegszeiten"
+        },
+        {
+            "source": "Vater ist im Kriege: Abschiednehmen",
+            "target": "Oorlogsannalen: Kanone",
+            "associationText": "Was geschieht mit dem Vater? Er wird direkt an die Front geschickt."
+        },
+        {
+            "source": "Vater ist im Kriege: Abschiednehmen",
+            "target": "Auf dem Kasernenhof: Schikane",
+            "associationText": "Was geschieht mit dem Vater? Er wird als Reservist in der Kaserne schikaniert."
+        },
+        {
+            "source": "Oorlogsannalen: Kanone",
+            "target": "The african Zouaves: Krieg und Langeweile",
+            "associationText": "Wohin fliegt die Rakete?."
+        },
+        {
+            "source": "The african Zouaves: Krieg und Langeweile",
+            "target": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
+            "associationText": "Z wie Zeppelin."
+        },
+        {
+            "source": "The african Zouaves: Krieg und Langeweile",
+            "target": "Wintersport in Österreich: Ziellinie",
+            "associationText": "Z wie Ziellinie."
+        },
+        {
+            "source": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
+            "target": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
+            "associationText": "An welchen Orten wurde Kriegsmaschinerie wie diese gebaut?"
+        },
+        {
+            "source": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
+            "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
+            "associationText": "Welche Schäden richteten diese im deutschen Reich produzierten Waffen an?"
+        },
+        {
+            "source": "Wintersport in Österreich: Ziellinie",
+            "target": "Auf dem Kasernenhof: Schikane",
+            "associationText": "Aus Spaß wird schnell Ernst während des Krieges Anfang 1914: Der Adel privat."
+        },
+        {
+            "source": "Wintersport in Österreich: Ziellinie",
+            "target": "Anfang 1914: Der Adel privat",
+            "associationText": "Ob beim Spiel oder zu Hause: zusammen ist man weniger allein."
+        },
+        {
+            "source": "Anfang 1914: Der Adel privat",
+            "target": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
+            "associationText": "Vom Familienglück zum Familienleid. Das Begräbnis der ehemaligen Kaiserin."
+        },
+        {
+            "source": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
+            "target": "Rückkehr von der Parade: Begeisterung",
+            "associationText": "Kaiser Wilhelm II: „Ich gehöre zu den Naturen, die Lob brauchen, um angefeuert zu werden und Gutes zu leisten.“"
+        },
+        {
+            "source": "Wintersport in Österreich: Ziellinie",
+            "target": "Rückkehr von der Parade: Begeisterung",
+            "associationText": "Den Gewinnern des Rennens wird zugejubelt, ebenso wie zu anderen Anlässen."
+        },
+        {
+            "source": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
+            "target": "Hüter der Ordnung: Laufe, wer kann",
+            "associationText": "Kaiser Wilhelm II: „Der Kurs bleibt der alte und nun voll Dampf voraus.“"
+        },
+        {
+            "source": "Rückkehr von der Parade: Begeisterung",
+            "target": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
+            "associationText": "Nicht immer sind Paraden ein Anlass zum freudigen Jubeln: das Begräbnis von Auguste Viktoria."
+        },
+        {
+            "source": "Rückkehr von der Parade: Begeisterung",
+            "target": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+            "associationText": "Nach dem Kriegsjubel folgt die Ernüchterung: zerstörte Städte und tausende Tote."
+        },
+        {
+            "source": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+            "target": "Vater ist im Kriege: Kriegsgefangenenlager",
+            "associationText": "Auch vor den Soldaten macht die Realität der Sinnlosigkeit des Krieges keinen Halt"
+        },
+        {
+            "source": "Auf dem Kasernenhof: Schikane",
+            "target": "Vater ist im Kriege: Kriegsgefangenenlager",
+            "associationText": "Im Vergleich zum Kriegsgefangenenlager erscheint die Kaserne beinah als Luxus."
+        },
+        {
+            "source": "Oorlogsannalen: Kanone",
+            "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
+            "associationText": "Was richten die Raketen und Artilleriegeschütze an?."
+        },
+        {
+            "source": "Hindenburgs 70. Geburtstag: Kaffeetrinken",
+            "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "associationText": "Während es für die Einen noch Kaffee gibt, stehen die Anderen vor leeren Lebensmittelläden."
+        },
+        {
+            "source": "Vater ist im Kriege: Kriegsgefangenenlager",
+            "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "associationText": "Essen ist nicht nur an der Front ein knappes Gut."
+        },
+        {
+            "source": "Hindenburgs 70. Geburtstag: Kaffeetrinken",
+            "target": "Propagandafilm über die Seeblockade: Essen für die Kinder",
+            "associationText": "Vorallem für die Kinder mangelt es an Lebensmitteln. "
+        },
+        {
+            "source": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "target": "Vor dem Damenbad",
+            "associationText": "Wer kein Geld für Lebensmittel oder gar Kinokarten hatte, suchte sich sein Vergnügen woanders."
+        },
+        {
+            "source": "Vor dem Damenbad",
+            "target": "Beim Zahnarzt: Patient unter Schmerzen",
+            "associationText": "Bereits vor dem Ersten Weltkrieg wurden kurze Sketche gedreht."
+        },
+        {
+            "source": "Propagandafilm über die Seeblockade: Essen für die Kinder",
+            "target": "Der Spielfilmtod eines deutschen Soldaten 191?",
+            "associationText": "Der Krieg nahm vielen Kindern die Väter."
+        },
+        {
+            "source": "Willst du mein Cousinchen sein: Flirt",
+            "target": "Der Spielfilmtod eines deutschen Soldaten 191?",
+            "associationText": "Der Krieg nahm vielen Frauen ihre Ehepartner."
         }
-
+        
+        
     ]
 }

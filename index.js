@@ -1,5 +1,5 @@
-var width = 960,
-  height = 500;
+var width = 1600,
+  height = 1000;
 var color = d3.scale.category20();
 
 var force = d3.layout.force()
