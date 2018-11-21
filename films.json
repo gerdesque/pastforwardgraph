@@ -216,8 +216,8 @@
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_10_1194_2R_Tirol_in_Waffen_(Le_Tyrol_en_Armes).mp4",
             "start": "0:33",
             "end": "1:06",
-            "intro": "Im März 1914 wird der deutsche Spielfilm „Tirol in Waffen“ in Berlin uraufgeführt. Die Handlung spielt im Tirol Anfang des 19 Jahrhunderts. Die Bevölkerung mobilisiert sich unter ihrem Anführer Andreas Hofer gegen die Besetzung der übermächtigen Truppen Napoleon Bonapartes. Ein Kritiker urteilt: „[...] Wir wussten kaum einen Film, der so geeignet wäre, unsere Jugendlichen zu Taten aus Vaterlandsliebe zu begeistern [...]”",
-            "text": "Tirol in Waffen\n1913/1914 Spielfilm\nRegie: Carl Froelich\nDrehbuch: Carl Froelich (?)\nDarsteller: Rudolf Biebrach, Carl Zickner, Erich Kober u.a.\nProduktionsfirma: Messter-Film GmbH (Berlin)\nProduzent: Oskar Messter"
+            "intro": "Im März 1914 wird der deutsche Spielfilm „Tirol in Waffen“ in Berlin uraufgeführt. Die Handlung spielt im Tirol Anfang des 19 Jahrhunderts. Die Bevölkerung mobilisiert sich unter ihrem Anführer Andreas Hofer gegen die Besetzung der übermächtigen Truppen Napoleon Bonapartes.",
+            "text": "Ein Kritiker urteilte über den 1913/1914 entstandenen Film: „[...] Wir wussten kaum einen Film, der so geeignet wäre, unsere Jugendlichen zu Taten aus Vaterlandsliebe zu begeistern [...]”"
         },
         {
             "id": "",
@@ -368,8 +368,37 @@
             "end": "1:20",
             "intro": "Bei „Vor dem Damenbad“ handelt es sich um ein Tonbild von 1912.",
             "text": "Tonbild ist die Bezeichnung für frühe Kinofilme, zu denen synchron Schellackplatten mit dem dazugehörigen Ton abgespielt wurden."
+        },
+        {
+            "id": "",
+            "section": "Bilder vom Trojanischen Kriege: Achilles wird getroffen",
+            "thumbnail": "ToDo: ~6:48",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_300_1R_Bilder_vom_Trojanischen_Kriege_(Helena).mp4",
+            "start": "5:47",
+            "end": "7:00",
+            "intro": "Die Sequenz aus der Monumentalfilmkompilation „Bilder vom Trojanischen Kriege“ zeigt den Tod des Achilles.",
+            "text": "Die Zusammenstellung verschiedener Filmszenen entstand vermutlich zu Beginn der 1920er Jahre und enthielt u.a. Ausschnitte des Monumentalfilmes „Helena“."
+        },
+        {
+            "id": "",
+            "section": "„Tirol in Waffen“: Trost für Mutter und Jungen",
+            "thumbnail": "ToDo: ~6:47",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_10_1194_2R_Tirol_in_Waffen_(Le_Tyrol_en_Armes).mp4",
+            "start": "6:30",
+            "end": "7:37",
+            "intro": "Im März 1914 wird der deutsche Spielfilm „Tirol in Waffen“ in Berlin uraufgeführt. Die Handlung spielt im Tirol Anfang des 19 Jahrhunderts. Die Bevölkerung mobilisiert sich unter ihrem Anführer Andreas Hofer gegen die Besetzung der übermächtigen Truppen Napoleon Bonapartes.",
+            "text": "Ein Kritiker urteilte über den 1913/1914 entstandenen Film: „[...] Wir wussten kaum einen Film, der so geeignet wäre, unsere Jugendlichen zu Taten aus Vaterlandsliebe zu begeistern [...]”"
+        },
+        {
+            "id": "",
+            "section": "Unident Eiko-Woche: Waffensammlung",
+            "thumbnail": "ToDo: ~0:04",
+            "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_341_1R_unident%20Eiko-Woche%20-%20Fragment.mp4",
+            "start": "0:00",
+            "end": "0:21",
+            "intro": "Dieser während des Ersten Weltkrieges gedrehte Beitrag zeigt Soldaten beim Abgeben ihrer Gewehre.",
+            "text": "Womöglich handelt es sich dabei um russische Kriegsgefangene. Das genaue Produktionsjahr ist nicht bekannt."
         }
-
     ],
     "arcs": [{
             "source": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
@@ -745,6 +774,36 @@
             "source": "Hüter der Ordnung: Laufe, wer kann",
             "target": "TODO",
             "associationText": "TODO"
+        },
+        {
+            "source": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "target": "Bilder vom Trojanischen Kriege: Achilles wird getroffen",
+            "associationText": "Welchem berühmten Vorbild möchte der Junge gern kämpfend folgen?"
+        },
+        {
+            "source": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "target": "Unident Eiko-Woche: Waffensammlung",
+            "associationText": "Was wünscht sich der Vater für die Zukunft seines Jungen?."
+        },
+        {
+            "source": "Vater ist im Kriege: Kriegsgefangenenlager",
+            "target": "Unident Eiko-Woche: Waffensammlung",
+            "associationText": "Man sehnt sich nach dem Ende des Krieges."
+        },
+        {
+            "source": "Vor dem Damenbad",
+            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "associationText": "Was sehen die Männer hinter der Wand?"
+        },
+        {
+            "source": "Propagandafilm über die Seeblockade: Essen für die Kinder",
+            "target": "Wintersport in Österreich: Ziellinie",
+            "associationText": "Ein Wunsch der Kinder: unbeschwerte Kindheit. Vielleicht sogar mit Rodeln."
+        },
+        {
+            "source": "Willst du mein Cousinchen sein: Flirt",
+            "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "associationText": "Sketche und Operetten dienten während des Krieges vorallem zur Ablenkung von den Problemen des zivilen Alltags."
         }
 
 
