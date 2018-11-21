@@ -36,26 +36,26 @@ d3.json("films.json", function (error, graph) {
   var drag = force.drag().on("dragstart", dragstart);
 
   svg.append("defs").selectAll("marker")
-    .data(0)
-    .enter().append("marker")
-    .attr("id", function (d) {
-      return d;
-    })
+  .data(["end"])
+  .enter().append("marker")
+    .attr("id", "arrowhead")
     .attr("viewBox", "0 -5 10 10")
-    .attr("refX", 25)
+    .attr("refX", 15)
     .attr("refY", -1.5)
     .attr("markerWidth", 6)
     .attr("markerHeight", 6)
     .attr("orient", "auto")
-    .append("path")
+  .append("path")
     .attr("d", "M0,-5L10,0L0,5");
 
   var path = svg.append("g").selectAll("path")
     .data(force.links())
     .enter().append("path")
     .attr("class", function (d) {
-      return "link " + 0;
-    });
+      return "link " + d.type;
+    })
+    .style("stroke-width", 5)
+    .attr("marker-end", "url(#arrowhead)");
 
   var circle = svg.append("g").selectAll("circle")
     .data(force.nodes())
