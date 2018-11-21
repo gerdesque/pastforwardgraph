@@ -8,7 +8,6 @@
             "end": "1:25",
             "intro": "Propaganda vor dem Kino-Hauptprogramm: In der Wochenschau wird im März 1917 für Kriegsanleihen geworben",
             "text": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege\n1917 Animationsfilm\nDer für die Messter-Wochenschau produzierte Zeichentrickfilm wirbt für die sechste, im März 1917 ausgegebene deutsche Kriegsanleihe. Wöchentlich wurden neue Zusammenstellung von Filmberichten über aktuelle Themen produziert. In diesem Fall gleichzeitig: Werbung."
-
         },
         {
             "id": "0301",
@@ -370,7 +369,7 @@
             "intro": "Bei „Vor dem Damenbad“ handelt es sich um ein Tonbild von 1912.",
             "text": "Tonbild ist die Bezeichnung für frühe Kinofilme, zu denen synchron Schellackplatten mit dem dazugehörigen Ton abgespielt wurden."
         }
-       
+
     ],
     "arcs": [{
             "source": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
@@ -572,11 +571,11 @@
             "target": "",
             "associationText": ""
         },
-		{
+        {
             "source": "Stehaufmänner im belgischen Flandern",
             "target": "",
             "associationText": ""
-        }
+        },
         {
             "source": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
             "target": "Willst du mein Cousinchen sein: Flirt",
@@ -712,7 +711,7 @@
             "target": "Der Spielfilmtod eines deutschen Soldaten 191?",
             "associationText": "Der Krieg nahm vielen Frauen ihre Ehepartner."
         }
-        
-        
+
+
     ]
 }
