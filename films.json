@@ -222,6 +222,16 @@
         },
         {
             "id": "",
+            "section": "Stehaufmänner im belgischen Flandern",
+            "thumbnail": "ToDo: ~5:58",
+            "video": "https://www.filmportal.de/sites/default/files/video/71579_13050_The_african_zouaves_DSM_file_to_view.mp4",
+            "start": "5:58",
+            "end": "6:25",
+            "intro": "Der von der französischen Filmkammer 1915 produzierte Film zeigt Zuaven, eine Infanterieeinheit nordafrikanischer Kolonialsoldaten, im belgischen Flandern. Angeblich wurde der Zeitvertreib einen Kilometer hinter der Front aufgenommen.",
+            "text": ""
+        },
+        {
+            "id": "",
             "section": "Willst du mein Cousinchen sein: Flirt",
             "thumbnail": "ToDo: ~2:22",
             "video": "https://www.filmportal.de/sites/default/files/video/Willst%20du%20mein%20Cousinchen%20sein.mp4",
@@ -439,8 +449,8 @@
         },
         {
             "source": "Infanterie in der Ebene",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
+            "associationText": "Heitere Heimat-Erinnerung: das Feldkino bringt Ablenkung vom grausamen Kriegsgeschäft"
         },
         {
             "source": "Der Spielfilmtod eines deutschen Soldaten 191?",
@@ -459,8 +469,8 @@
         },
         {
             "source": "Anfang 1914: Der Adel privat",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Stehaufmänner im belgischen Flandern",
+            "associationText": "Wie sich ein Jahr später Soldaten hinter der Front die Zeit vertreiben"
         },
         {
             "source": "Die Feldpostnachricht",
@@ -479,8 +489,8 @@
         },
         {
             "source": "Französische Soldaten am Geschütz, 1918",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Stehaufmänner im belgischen Flandern",
+            "associationText": "Auch das gibt es: Freizeit hinter der Frontlinie mit Spiel und Spaß"
         },
         {
             "source": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
@@ -504,8 +514,8 @@
         },
         {
             "source": "Das Trojanische Pferd",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Beim Zahnarzt: Patient unter Schmerzen",
+            "associationText": "Da hilft keine Taktik: Was einem beim Zahnarzt blüht, hat man nicht in der Hand"
         },
         {
             "source": "Das Trojanische Pferd",
@@ -557,6 +567,16 @@
             "target": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
             "associationText": "Der richtige Moment, um an etwas schönes denken."
         },
+        {
+            "source": "Stehaufmänner im belgischen Flandern",
+            "target": "",
+            "associationText": ""
+        },
+		{
+            "source": "Stehaufmänner im belgischen Flandern",
+            "target": "",
+            "associationText": ""
+        }
         {
             "source": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
             "target": "Willst du mein Cousinchen sein: Flirt",
