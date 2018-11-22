@@ -398,7 +398,7 @@
             "end": "0:21",
             "intro": "Dieser während des Ersten Weltkrieges gedrehte Beitrag zeigt Soldaten beim Abgeben ihrer Gewehre.",
             "text": "Womöglich handelt es sich dabei um russische Kriegsgefangene. Das genaue Produktionsjahr ist nicht bekannt."
-        }
+        },
         {
             "id": "1301",
             "section": "Die Menge in Erwartung des Kaisers",
@@ -406,8 +406,8 @@
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_1_02_35_255_1R_Hindenburgs_70_Geburtstagsfeier_beim_Kaiser_im_grossen_Hauptquartier.mp4",
             "start": "0:26",
             "end": "0:43",
-            "intro": "",
-            "text": ""
+            "intro": "Ein Massenereignis oder alles nur Show? Kaiser Wilhelm II. wird freudig erwartet",
+            "text": "Im Jahr 1917 begeht von Hindenburg seinen Geburtstag feierlich im Beisein von Kaiser Wilhelm II. und anderen Militärs."
         }
     ],
     "arcs": [{
@@ -572,23 +572,23 @@
         },     
         {
             "source": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Vater ist im Kriege: Kriegsgefangenenlager",
+            "associationText": "Kann das ein Alltag sein?"
         },
         {
             "source": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+            "associationText": "So sah die andere Seite aus..."
         },
         {
             "source": "Henny Porten Fragment",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Willst du mein Cousinchen sein: Flirt",
+            "associationText": "Darf's ein wenig koketter zugehen?"
         },
         {
             "source": "Henny Porten Fragment",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Vater ist im Kriege",
+            "associationText": "Liebe in Zeiten des Krieges?"
         },
         {
             "source": "Beim Zahnarzt: Patient unter Schmerzen",
