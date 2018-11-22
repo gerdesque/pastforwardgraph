@@ -562,9 +562,14 @@
         },
         {
             "source": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
-            "target": "TODO",
-            "associationText": "TODO"
+            "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
+            "associationText": "Verluste auf allen Seiten - Auch der Seekrieg hatte seine Folgen"
         },
+        {
+            "source": "Truppenabzug, Zerstörung und Opfer 1918 im französischen Valenciennes",
+            "target": "Rückkehr von der Parade: Begeisterung",
+            "associationText": "Und die Propaganda-Maschinerie läuft"
+        },     
         {
             "source": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
             "target": "TODO",
