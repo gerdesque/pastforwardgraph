@@ -1,15 +1,5 @@
 {
     "nodes": [{
-            "id": "0201",
-            "section": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.jpg",
-            "video": "https://www.filmportal.de/sites/default/files/video/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.mp4",
-            "start": "0:00",
-            "end": "1:25",
-            "intro": "Propaganda vor dem Kino-Hauptprogramm: In der Wochenschau wird im März 1917 für Kriegsanleihen geworben",
-            "text": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege\n1917 Animationsfilm\nDer für die Messter-Wochenschau produzierte Zeichentrickfilm wirbt für die sechste, im März 1917 ausgegebene deutsche Kriegsanleihe. Wöchentlich wurden neue Zusammenstellung von Filmberichten über aktuelle Themen produziert. In diesem Fall gleichzeitig: Werbung."
-        },
-        {
             "id": "0301",
             "section": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
             "thumbnail": "ToDo: ~2:11",
@@ -64,7 +54,7 @@
             "section": "Anfang 1914: Der Adel privat",
             "thumbnail": "ToDo: ~5:32",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_30_788_1R_Fuerstliches_Familienglueck.mp4",
-            "start": "4:39",
+            "start": "4:33",
             "end": "5:36",
             "intro": "In einer ihrer ersten Ausgaben porträtiert die Eiko-Woche die Adligen auf der Taufe Ernst August IV. Zu sehen sind Eitel Friedrich von Preußen, Sophie Charlotte von Oldenburg, August Wilhelm von Preußen, Alexandra Viktoria von Schleswig-Holstein-Sonderburg-Glücksburg sowie Friedrich Franz IV., Großherzog von Mecklenburg.",
             "text": "Aus: Fürstliches Familienglück\n1914 Kurz-Dokumentarfilm\nWie im Kaiserreich üblich, finden anlässlich des Kaiserbesuches aufwändigen Festlichkeiten statt - die „Kaisertage“. Die Taufe kann als das letzte großen Fürstenfest vor dem Ersten Weltkrieg bezeichnet werden. Die Mitglieder der Fürstenhäuser werden hier für die Eiko-Woche inszeniert wie auch heute noch Celebrities in den Boulevardmedien. Das Format wird über die Kriegsjahre wöchentlich im Kino-Vorprogramm gezeigt."
@@ -160,7 +150,7 @@
             "text": "Oorlogsannalen No. 85 (1918)\nFrankreich 1918 Kurz-Dokumentarfilm (?)\n„Les Annales de la Guerre“ (bzw. hier die für ein niederländischsprachiges Publikum angepasste Version) gilt als erste staatliche Wochenschau der Filmgeschichte: Vom Frühjahr 1917 an ließ die französische Regierung die Reihe von einer Filmabteilung des Militärs produzieren und verpflichtete alle Kinos in Frankreich, diese offizielle Sicht auf das Kriegsgeschehen zu zeigen."
         },
         {
-            "id": "1104",
+            "id": "1103",
             "section": "Deutsche Kriegsgefangene der Franzosen nach der Schlacht von Plessis-de-Roye, 1918",
             "thumbnail": "ToDo: ~4:20",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_11_306_1R_Oorlogsannalen_No_85_(1918)_orange.mp4",
@@ -250,16 +240,6 @@
             "text": "In dieser Szene spielen Henny Porten und Eduard von Winterstein."
         },
         {
-            "id": "1103",
-            "section": "Oorlogsannalen: Kanone",
-            "thumbnail": "ToDo: ~2:55",
-            "video": "https://www.filmportal.de/sites/default/files/video/DIF_11_306_1R_Oorlogsannalen_No_85_(1918)_orange.mp4",
-            "start": "2:42",
-            "end": "3:02",
-            "intro": "Der Ausschnitt der Kriegsannalen vom Oktober 1918 dokumentiert die Gegenangriffe der französischen und britischen Truppen gegen die deutschen Angriffe während des Ersten Weltkrieges an der Westfront.",
-            "text": "„Les Annales de la Guerre“ gilt als erste staatliche Wochenschau der Filmgeschichte: Vom Frühjahr 1917 an ließ die französische Regierung die Reihe von einer Filmabteilung des Militärs produzieren und verpflichtete alle Kinos in Frankreich, diese offizielle Sicht auf das Kriegsgeschehen zu zeigen."
-        },
-        {
             "id": "1401",
             "section": "Auf dem Kasernenhof: Schikane",
             "thumbnail": "ToDo: ~0:14",
@@ -280,7 +260,7 @@
             "text": "Der Film wurde ungefähr zwischen 1914 und 1915 gedreht und soll die Truppen in Bereitschaft einen Kilometer hinter der Front zeigen."
         },
         {
-            "id": "0202",
+            "id": "0201",
             "section": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
             "thumbnail": "ToDo: ~0:47",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_1_02_16_182_1R_Der_Ertrag_der_VI_deutschen_Kriegsanleihen_gibt_unseren_Helden_die_Kraft_zum_Siege.mp4",
@@ -298,16 +278,6 @@
             "end": "1:28",
             "intro": "In dem Beitrag der Aktualitätenfilm-Reihe wird ein Bobrennen in Österreich porträtiert.",
             "text": "Das von der Firma „Express-Film“ aus Freiburg produzierte Format „Der Tag im Film“ wurde günstig an Kinobetreiber verkauft, die daraus Wochenschauen zusammenstellen konnten. Das Entstehungsjahr ist unbekannt."
-        },
-        {
-            "id": "0402",
-            "section": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
-            "thumbnail": "ToDo: ~0:25",
-            "video": "https://www.filmportal.de/sites/default/files/video/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.mp4",
-            "start": "0:16",
-            "end": "0:27",
-            "intro": "Die Aufnahme zeigt Kaiser Wilhelm II. beim Besuch der Vulkan-Werft in Stettin am 4. Mai 1897 ",
-            "text": "Die von Oskar Messter produzierte Szene bezeichnete er selbst als „die erste gute Großaufnahme des Kaisers“."
         },
         {
             "id": "1901",
@@ -421,17 +391,12 @@
         }
     ],
     "arcs": [{
-            "source": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
-            "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
-            "associationText": "Bereits 3 Jahre zuvor: der Zustand der Dampfschifffahrt im Schwarzen Meer"
-        },
-        {
-            "source": "Der Ertrag der VI. deutschen Kriegsanleihe gibt unseren Helden die Kraft zum Siege",
+            "source": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
             "target": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
             "associationText": "Die Begeisterung der Werftarbeiter Stettins für den Kaiser: der Stapellauf des Transatlantik-Schnelldampfers „Kaiser Wilhelm der Große“."
         },
         {
-            "source": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
+            "source": "Die Menge in Erwartung des Kaisers",
             "target": "Welfentaufe 1914: Empfang des Kaiserpaares",
             "associationText": "Kaiser Wilhelm II. in familiärer Mission: die Taufe seines Enkels Ernst August kurz vor Kriegsausbruch"
         },
@@ -531,24 +496,9 @@
             "associationText": "TODO"
         },
         {
-            "source": "Französische Soldaten am Geschütz, 1918",
-            "target": "Unident Eiko-Woche: Waffensammlung",
-            "associationText": "Zeit die Waffen niederzulegen"
-        },
-        {
-            "source": "Französische Soldaten am Geschütz, 1918",
-            "target": "Stehaufmänner im belgischen Flandern",
-            "associationText": "Auch das gibt es: Freizeit hinter der Frontlinie mit Spiel und Spaß"
-        },
-        {
             "source": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
             "target": "Propagandafilm über die Seeblockade: Darstellung von Zuckerration",
             "associationText": "Nach dem Krieg musste der Gürtel enger geschnallt werden."
-        },
-        {
-            "source": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
-            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
-            "associationText": "Ein wenig Trost für das Volk?"
         },
         {
             "source": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
@@ -637,7 +587,7 @@
         },
         {
             "source": "Vater ist im Kriege: Abschiednehmen",
-            "target": "Oorlogsannalen: Kanone",
+            "target": "ToDo",
             "associationText": "Was geschieht mit dem Vater? Er wird direkt an die Front geschickt."
         },
         {
@@ -646,7 +596,7 @@
             "associationText": "Was geschieht mit dem Vater? Er wird als Reservist in der Kaserne schikaniert."
         },
         {
-            "source": "Oorlogsannalen: Kanone",
+            "source": "Französische Soldaten am Geschütz, 1918",
             "target": "The african Zouaves: Krieg und Langeweile",
             "associationText": "Wohin fliegt die Rakete?."
         },
@@ -662,7 +612,7 @@
         },
         {
             "source": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
-            "target": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
+            "target": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
             "associationText": "An welchen Orten wurde Kriegsmaschinerie wie diese gebaut?"
         },
         {
@@ -681,19 +631,19 @@
             "associationText": "Vom Familienglück zum Familienleid. Das Begräbnis der ehemaligen Kaiserin."
         },
         {
-            "source": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
+            "source": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
             "target": "Rückkehr von der Parade: Begeisterung",
             "associationText": "Kaiser Wilhelm II: „Ich gehöre zu den Naturen, die Lob brauchen, um angefeuert zu werden und Gutes zu leisten.“"
+        },
+        {
+            "source": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
+            "target": "Hüter der Ordnung: Laufe, wer kann",
+            "associationText": "Kaiser Wilhelm II: „Der Kurs bleibt der alte und nun voll Dampf voraus.“"
         },
         {
             "source": "Wintersport in Österreich: Ziellinie",
             "target": "Rückkehr von der Parade: Begeisterung",
             "associationText": "Den Gewinnern des Rennens wird zugejubelt, ebenso wie zu anderen Anlässen."
-        },
-        {
-            "source": "Wochenschau Teil 3: Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897",
-            "target": "Hüter der Ordnung: Laufe, wer kann",
-            "associationText": "Kaiser Wilhelm II: „Der Kurs bleibt der alte und nun voll Dampf voraus.“"
         },
         {
             "source": "Rückkehr von der Parade: Begeisterung",
@@ -716,7 +666,7 @@
             "associationText": "Im Vergleich zum Kriegsgefangenenlager erscheint die Kaserne beinah als Luxus."
         },
         {
-            "source": "Oorlogsannalen: Kanone",
+            "source": "Französische Soldaten am Geschütz, 1918",
             "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
             "associationText": "Was richten die Raketen und Artilleriegeschütze an?."
         },
