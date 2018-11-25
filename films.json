@@ -663,7 +663,7 @@
         {
             "source": "Auf dem Kasernenhof: Schikane",
             "target": "Vater ist im Kriege: Kriegsgefangenenlager",
-            "associationText": "Im Vergleich zum Kriegsgefangenenlager erscheint die Kaserne beinah als Luxus."
+            "associationText": "Die Kaserne erscheint beinah als Luxus im Vergleich zum Kriegsgefangenenlager."
         },
         {
             "source": "Französische Soldaten am Geschütz, 1918",
@@ -673,17 +673,17 @@
         {
             "source": "Hindenburgs 70. Geburtstag: Kaffeetrinken",
             "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
-            "associationText": "Während es für die Einen noch Kaffee gibt, stehen die Anderen vor leeren Lebensmittelläden."
+            "associationText": "Wie sieht es nach dem Krieg mit dem Kaffee aus, Herr Generalfeldmarschall?."
         },
         {
             "source": "Vater ist im Kriege: Kriegsgefangenenlager",
             "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
-            "associationText": "Essen ist nicht nur an der Front ein knappes Gut."
+            "associationText": "Essen ist nicht nur im Krieg an der Front ein knappes Gut."
         },
         {
             "source": "Hindenburgs 70. Geburtstag: Kaffeetrinken",
             "target": "Propagandafilm über die Seeblockade: Essen für die Kinder",
-            "associationText": "Vorallem für die Kinder mangelt es an Lebensmitteln. "
+            "associationText": "Der Kontrast alt und jung, vor und nach dem Krieg."
         },
         {
             "source": "Hüter der Ordnung: Pflichtgefühl",
@@ -711,45 +711,10 @@
             "associationText": "Der Krieg nahm vielen Frauen ihre Ehepartner."
         },
         {
-            "source": "Auf dem Kasernenhof: Schikane",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
-        {
-            "source": "Propagandafilm über die Seeblockade: Darstellung von Zuckerration",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
-        {
-            "source": "Propagandafilm über die Seeblockade: leere Schaufenster",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
-        {
-            "source": "Propagandafilm über die Seeblockade: leere Schaufenster",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
-        {
-            "source": "Die Menge in Erwartung des Kaisers",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
-        {
-            "source": "Die Menge in Erwartung des Kaisers",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
-        {
             "source": "Hüter der Ordnung: Laufe, wer kann",
             "target": "Der Tod des Helden Paris",
-            "associationText": "Mehr Spezialeffekte im frühen Kino"
-        },
-        {
-            "source": "Hüter der Ordnung: Laufe, wer kann",
-            "target": "TODO",
-            "associationText": "TODO"
-        },
+            "associationText": "Noch mehr Spezialeffekte im frühen Kino?"
+        },     
         {
             "source": "Bilder vom Trojanischen Kriege: Achilles wird getroffen",
             "target": "Henny Porten Fragment",
@@ -787,8 +752,8 @@
         },
         {
             "source": "Vor dem Damenbad",
-            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
-            "associationText": "Was sehen die Männer hinter der Wand?"
+            "target": "Hüter der Ordnung: Pflichtgefühl",
+            "associationText": "Polizei, dein Freund und helfen"
         },
         {
             "source": "Propagandafilm über die Seeblockade: Essen für die Kinder",
@@ -799,6 +764,71 @@
             "source": "Willst du mein Cousinchen sein: Flirt",
             "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
             "associationText": "Sketche und Operetten dienten während des Krieges vorallem zur Ablenkung von den Problemen des zivilen Alltags."
+        },
+        {
+            "source": "Auf dem Kasernenhof: Schikane",
+            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "associationText": "Hätten wir das ahnen können als wir uns zum Wehrdienst meldeten?"
+        },
+        {
+            "source": "Propagandafilm über die Seeblockade: Darstellung von Zuckerration",
+            "target": "Der Ertrag der 6. deutschen Kriegsanleihe: Zeppelin",
+            "associationText": "Was gaben wir nicht alles für den Krieg..."
+        },
+        {
+            "source": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "target": "Welfentaufe 1914: Empfang des Kaiserpaares",
+            "associationText": "Die fetten Jahre sind vorbei."
+        },
+        {
+            "source": "Propagandafilm über die Seeblockade: leere Schaufenster",
+            "target": "Bilder vom Trojanischen Kriege: Achilles wird getroffen",
+            "associationText": "Episches Drama im Alltag - Episches Drama im Kino"
+        },
+        {
+            "source": "Hüter der Ordnung: Laufe, wer kann",
+            "target": "Spielfilm-Kompilation: Bilder vom Trojanischen Kriege",
+            "associationText": "Angriff ist die beste Offensive"
+        },
+        {
+            "source": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "target": "Vor dem Damenbad",
+            "associationText": "Wohin ist der Vater unterwegs?"
+        }, 
+        {
+            "source": "Die Feldpostnachricht",
+            "target": "Stehaufmänner im belgischen Flandern",
+            "associationText": "Alles halb so schlimm an der Front"
+        }, 
+        {
+            "source": "Das Trojanische Pferd",
+            "target": "Hüter der Ordnung: Pflichtgefühl",
+            "associationText": "Gefahr gebannt! Tierisch geht es weiter..."
+        },      
+        {
+            "source": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
+            "target": "Propagandafilm über die Seeblockade: Essen für die Kinder",
+            "associationText": "Nach dem Krieg: zwischen zwei Welten"
+        }, 
+        {
+            "source": "Französische Soldaten am Geschütz, 1918",
+            "target": "Das Trojanische Pferd",
+            "associationText": "Offner Angriff vs. taktischer Angriff"
+        },
+        {
+            "source": "Welfentaufe 1914: Empfang des Kaiserpaares",
+            "target": "Kinoprogramm Anfang 1914: Der Spielfilm „Tirol in Waffen“",
+            "associationText": "Das wird dem Monarchenenkel wohl nicht passieren..."
+        },    
+        {
+            "source": "Willst du mein Cousinchen sein: Flirt",
+            "target": "Vater ist im Kriege: Abschiednehmen",
+            "associationText": "Erst kam die Liebe, dann kam der Krieg."
+        }, 
+        {
+            "source": "Die Menge in Erwartung des Kaisers",
+            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "associationText": "Was ist das Volk bereit zu tun für seine Monarchen?"
         }
 
 
