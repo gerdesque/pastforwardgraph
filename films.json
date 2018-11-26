@@ -12,7 +12,7 @@
         {
             "id": "0401",
             "section": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.jpg",
+            "thumbnail": "0401.jpg",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.mp4",
             "start": "0:13",
             "end": "1:02",
@@ -32,7 +32,7 @@
         {
             "id": "0601",
             "section": "Potsdam 1921: Das Ehrenspalier zur Beisetzung der ehemaligen Kaiserin Auguste Viktoria",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_20_306_1R_Das_Begraebnis_der_ehemaligen_Kaiserin_Auguste_Victoria.jpg",
+            "thumbnail": "0601.jpg",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_20_306_1R_Das_Begraebnis_der_ehemaligen_Kaiserin_Auguste_Victoria.mp4",
             "start": "1:58",
             "end": "2:33",
@@ -102,7 +102,7 @@
         {
             "id": "1001",
             "section": "Infanterie in der Ebene",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_50_341_1R_unident%20Eiko-Woche%20-%20Fragment.jpg",
+            "thumbnail": "1001.jpg",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_341_1R_unident%20Eiko-Woche%20-%20Fragment.mp4",
             "start": "0:24",
             "end": "1:08",
@@ -122,7 +122,7 @@
         {
             "id": "0902",
             "section": "Der Spielfilmtod eines deutschen Soldaten 191?",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/video_thumb/DIF_Vater%20ist%20im%20Kriege.jpg",
+            "thumbnail": "0902.jpg",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_Vater%20ist%20im%20Kriege.mp4",
             "start": "4:41",
             "end": "5:37",
@@ -372,7 +372,7 @@
         {
             "id": "1802",
             "section": "Hüter der Ordnung: Pflichtgefühl",
-            "thumbnail": "https://www.filmportal.de/sites/default/files/styles/gal_image/public/11.jpg?itok=vK8lw6iH",
+            "thumbnail": "1802.jpg",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_BArch_K_214956_1R_Hueter_der_Ordnung_LaengunguGradingZT.mp4",
             "start": "14:57",
             "end": "15:16",
