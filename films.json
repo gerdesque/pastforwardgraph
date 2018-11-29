@@ -6,7 +6,7 @@
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_50_145_1R_Kino_Kriegsschau_Nr_14_DE_1914.mp4",
             "start": "2:01",
             "end": "4:13",
-            "intro": "Kurz nach Kriegsbeginn sind in einer russischen Hafenstadt die Schäden eines türkischen Angriffs im Oktober 1914 bereits verheerend. In deutschen Kinos dokumentiert die  „Kino-Kriegsschau“.",
+            "intro": "Kurz nach Kriegsbeginn sind in einer russischen Hafenstadt die Schäden eines türkischen Angriffs im Oktober 1914 bereits verheerend. In deutschen Kinos dokumentiert die „Kino-Kriegsschau“.",
             "text": "Aus: Kino-Kriegsschau Nr.14\n1914 Dokumentarfilm\nDer verheerende Angriff wurde zeitgleich mit Attacken auf Sewastopol und Odessa durchgeführt und markierte den Beginn des Seekriegs im Schwarzen Meer.\nMit drei Monaten Verzug vertreibt Filmproduzent Edmund Hubert aus Berlin diese Aufnahmen im Januar 1915 als Teil seiner Reihe  „Kino-Kriegsschau“ und bewarb sie als Sensation."
         },
         {
@@ -16,7 +16,7 @@
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_31_13_1R_Wochenschau_Material_1897_1913_Teil_3.mp4",
             "start": "0:13",
             "end": "1:02",
-            "intro": "Die Kaiserzeit: Kaiser Wilhelm II. beehrt am 4. Mai 1897 in Stettin eine der damals führenden Werften in Deutschland mit seinem Besuch an der Landungsbrücke des Werkgeländes. Anlass ist der Stapellauf des Transatlantik-Schnelldampfers  „Kaiser Wilhelm der Große“.",
+            "intro": "Die Kaiserzeit: Kaiser Wilhelm II. beehrt am 4. Mai 1897 in Stettin eine der damals führenden Werften in Deutschland mit seinem Besuch an der Landungsbrücke des Werkgeländes. Anlass ist der Stapellauf des Transatlantik-Schnelldampfers „Kaiser Wilhelm der Große“.",
             "text": "Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897\n1897 Kurz-Dokumentarfilm\nDie Aufnahmen wurden gedreht vom deutschen Filmpionier Oskar Messter. In seinen Lebenserinnerungen beschreibt er sie als  „die erste gute Großaufnahme des Kaisers“. Messter produzierte später die erste größere deutsche Wochenschau, die Messter-Woche. Sie wurde kurz nach Ausbruch des 1. Weltkrieges erstmal im Kino-Vorprogramm gezeigt."
         },
         {
@@ -36,7 +36,7 @@
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_20_306_1R_Das_Begraebnis_der_ehemaligen_Kaiserin_Auguste_Victoria.mp4",
             "start": "1:58",
             "end": "2:33",
-            "intro": "2 1/2 Jahre nach Ende des Ersten Weltkrieges mit vielen Millionen Toten und dem daran anschließenden Ende der Monarchie in Deutschland findet im April 1921 der Trauerzug für die ehemalige Kaiserin Auguste Viktoria statt. Ihr Sarg wird von zahlreiche Adelige und Militärs durch ein Ehrenspalier im Park Sanssouci geleitet. Der prunkvolle Aufzug der alten Elite ähnelte den Paraden des Kaiserreichs.",
+            "intro": "2 1/2 Jahre nach Ende des Ersten Weltkrieges mit vielen Millionen Toten und dem daran anschließenden Ende der Monarchie in Deutschland findet im April 1921 der Trauerzug für die ehemalige Kaiserin Auguste Viktoria statt. Ihr Sarg wird von zahlreichen Adeligen und Militärs durch ein Ehrenspalier im Park Sanssouci geleitet. Der prunkvolle Aufzug der alten Elite ähnelte den Paraden des Kaiserreichs.",
             "text": "Das Begräbnis der ehemaligen Kaiserin Auguste Victoria\n1921 Kurz-Dokumentarfilm\nProduktionsfirma: Ilag-Film (Isenthal und Juttke) (Berlin)\nPrüfung/Zensur: Zensur (DE): 23.04.1921, B.02017, Jugendfrei"
         },
         {
@@ -294,8 +294,8 @@
             "section": "Hüter der Ordnung: Laufe, wer kann",
             "thumbnail": "ToDo: ~14:08",
             "video": "https://www.filmportal.de/sites/default/files/video/DIF_BArch_K_214956_1R_Hueter_der_Ordnung_LaengunguGradingZT.mp4",
-            "start": "14:57",
-            "end": "15:16",
+            "start": "13:37",
+            "end": "14:35",
             "intro": "Der Dokumentarfilm zeigt verschiedene Aspekte der Abrichtung und Einsetzung von Polizeihunden.",
             "text": "Womöglich handelt es sich bei „Hüter der Ordnung“ in Teilen oder in Gänze um das gleiche Material, das die Deutsche Lichtbild-Gesellschaft 1919 unter dem Titel „Dressur deutscher Schäferhunde“ vertrieb."
         },
@@ -543,7 +543,7 @@
         {
             "source": "Beim Zahnarzt: Patient unter Schmerzen",
             "target": "„Tirol in Waffen“: Tanz, Musik und gute Laune",
-            "associationText": "Der richtige Moment, um an etwas schönes denken."
+            "associationText": "Der richtige Moment, um an etwas Schönes zu denken."
         },
         {
             "source": "Stehaufmänner im belgischen Flandern",
@@ -633,12 +633,12 @@
         {
             "source": "Französische Soldaten am Geschütz, 1918",
             "target": "Schäden nach Beginn des Seekriegs im Schwarzen Meer",
-            "associationText": "Was richten die Raketen und Artilleriegeschütze an?."
+            "associationText": "Was richten die Raketen und Artilleriegeschütze an?"
         },
         {
             "source": "Hindenburgs 70. Geburtstag: Kaffeetrinken",
             "target": "Propagandafilm über die Seeblockade: leere Schaufenster",
-            "associationText": "Wie sieht es nach dem Krieg mit dem Kaffee aus, Herr Generalfeldmarschall?."
+            "associationText": "Wie sieht es nach dem Krieg mit dem Kaffee aus, Herr Generalfeldmarschall?"
         },
         {
             "source": "Vater ist im Kriege: Kriegsgefangenenlager",
@@ -763,7 +763,7 @@
         {
             "source": "Französische Soldaten am Geschütz, 1918",
             "target": "Das Trojanische Pferd",
-            "associationText": "Offner Angriff vs. taktischer Angriff"
+            "associationText": "Offener Angriff vs. taktischer Angriff"
         },
         {
             "source": "Welfentaufe 1914: Empfang des Kaiserpaares",
