@@ -696,7 +696,7 @@
             "associationText": "Jetzt ein Brief nach Hause?"
         },
         {
-            "source": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "source": "„Tirol in Waffen“: Trost für Mutter und Jungen",
             "target": "Bilder vom Trojanischen Kriege: Achilles wird getroffen",
             "associationText": "Welchem berühmten Vorbild möchte der Junge gern kämpfend folgen?"
         },
@@ -722,7 +722,7 @@
         },
         {
             "source": "Auf dem Kasernenhof: Schikane",
-            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "target": "„Tirol in Waffen“: Trost für Mutter und Jungen",
             "associationText": "Hätten wir das ahnen können als wir uns zum Wehrdienst meldeten?"
         },
         {
@@ -746,7 +746,7 @@
             "associationText": "Angriff ist die beste Offensive"
         },
         {
-            "source": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "source": "„Tirol in Waffen“: Trost für Mutter und Jungen",
             "target": "Vor dem Damenbad",
             "associationText": "Wohin ist der Vater unterwegs?"
         },
@@ -777,7 +777,7 @@
         },
         {
             "source": "Die Menge in Erwartung des Kaisers",
-            "target": "Tirol in Waffen“: Trost für Mutter und Jungen",
+            "target": "„Tirol in Waffen“: Trost für Mutter und Jungen",
             "associationText": "Was ist das Volk bereit zu tun für seine Monarchen?"
         }
     ]
