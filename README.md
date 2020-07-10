@@ -1,4 +1,8 @@
-# pastforwardgraph
+# [past forward graph ⏩](https://gerdesque.github.io/pastforwardgraph/)
+
+Das Projekts kann unter [past forward ⏩](https://gerdesque.github.io/pastforward/) besucht werden!
+
+![past forward](https://codingdavinci.de/img/projekte//pastforward.png)
 
 Die Datei films.json enthält alle Videosequenzen samt Verlinkungen zueinander. Eine Videosequenz ist ein Ausschnitt aus einem der 22 Filme, der mit Start- und Endzeit klar abgesteckt ist.
 Dies kann visuell unter https://gerdesque.github.io/pastforwardgraph/index.html eingesehen werden.
